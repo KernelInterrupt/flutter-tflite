@@ -42,6 +42,9 @@ dependencies:
   video_player: ^2.8.1
   chewie: any 
   fvp: ^0.11.0
+  vector_math: ^2.1.4
+  dart_tensor: '^1.0.4'
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
